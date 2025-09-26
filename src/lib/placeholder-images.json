@@ -1,0 +1,64 @@
+{
+  "placeholderImages": [
+    {
+      "id": "driver1",
+      "description": "Portrait of driver Alex Johnson",
+      "imageUrl": "https://picsum.photos/seed/driver1/100/100",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "driver2",
+      "description": "Portrait of driver Maria Garcia",
+      "imageUrl": "https://picsum.photos/seed/driver2/100/100",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "driver3",
+      "description": "Portrait of driver Chen Wei",
+      "imageUrl": "https://picsum.photos/seed/driver3/100/100",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "driver4",
+      "description": "Portrait of driver Fatima Al-Fassi",
+      "imageUrl": "https://picsum.photos/seed/driver4/100/100",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "vehicle1",
+      "description": "School bus number 101",
+      "imageUrl": "https://picsum.photos/seed/vehicle1/400/300",
+      "imageHint": "school bus"
+    },
+    {
+      "id": "vehicle2",
+      "description": "School van number 202",
+      "imageUrl": "https://picsum.photos/seed/vehicle2/400/300",
+      "imageHint": "school van"
+    },
+    {
+      "id": "vehicle3",
+      "description": "School bus number 303",
+      "imageUrl": "https://picsum.photos/seed/vehicle3/400/300",
+      "imageHint": "school bus"
+    },
+    {
+      "id": "vehicle4",
+      "description": "School van number 404",
+      "imageUrl": "https://picsum.photos/seed/vehicle4/400/300",
+      "imageHint": "school van"
+    },
+    {
+      "id": "user-admin",
+      "description": "Avatar for admin user",
+      "imageUrl": "https://picsum.photos/seed/admin/100/100",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "user-driver",
+      "description": "Avatar for driver user",
+      "imageUrl": "https://picsum.photos/seed/driver/100/100",
+      "imageHint": "person portrait"
+    }
+  ]
+}
